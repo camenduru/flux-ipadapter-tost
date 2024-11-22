@@ -11,5 +11,7 @@ https://github.com/comfyanonymous/ComfyUI <br />
 
 ### 🖼 Output
 
+https://github.com/user-attachments/assets/a4cc7d2a-2983-4a7d-b709-77b30522e989
+
 ### 🏢 Sponsor
 [https://runpod.io](https://runpod.io?ref=iqi9iy8y)
